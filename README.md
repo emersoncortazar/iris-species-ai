@@ -1,0 +1,1 @@
+This project is a classification project of iris flowers using sepal length, sepal width, petal length, and petal width. The dataset comes from Kaggle, UCI Machine Learning, and was ued in R.A. Fisher's 1936 paper titled The Use of Multiple Measurements in Taxonomic Problme.
